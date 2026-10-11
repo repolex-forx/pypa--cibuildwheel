@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pypa/cibuildwheel/commit/b3395e271a35f73dad77f21802abe9b986dfe299",
       "git:hexsha": "b3395e271a35f73dad77f21802abe9b986dfe299",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v4.3.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v4.3.1",
+      "repolex:parsedAt": "2026-10-11T03:12:18.201454+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pypa/cibuildwheel/commit/0b6307072a15a35debbb73215c012cf29c672908",
