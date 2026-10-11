@@ -1,0 +1,11 @@
+{
+  "org": "pypa",
+  "repo": "cibuildwheel",
+  "versions": [
+    {
+      "commit": "b3395e271a35f73dad77f21802abe9b986dfe299",
+      "tag": "v4.3",
+      "parsed_at": "2026-10-11T03:12:18.202638+00:00"
+    }
+  ]
+}
